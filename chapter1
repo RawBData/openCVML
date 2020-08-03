@@ -1,0 +1,17 @@
+import cv2
+print("CV2 Loaded")
+
+#simple image capter
+# img = cv2.imread("Resources/btrfly.png")
+#
+# cv2.imshow("Output",img)
+# cv2.waitKey(0)
+
+#load video capture
+
+
+
+#From webcam
+
+
+
